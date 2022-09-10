@@ -3,7 +3,10 @@ Install and Configure The Network UPS Tools (NUT)  on Zyxel NAS-540 via SSH
 
 (UPS : EATON 3S 700 with USB port)
  
-
+```
+~ # lsusb
+Bus 001 Device 003: ID 0463:ffff EATON Eaton 3S
+```
 
 ## Usage
 ```
