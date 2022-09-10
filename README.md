@@ -5,9 +5,9 @@ Install and Configure The Network UPS Tools (NUT)  on Zyxel NAS-540 via SSH
  
 
 
+## Usage
+```
 
-
-Usage :
 
 login as: admin
 admin@192.168.*.*'s password:
@@ -105,3 +105,4 @@ ups.timer.shutdown: -1
 ups.timer.start: -1
 ups.vendorid: 0463
 ~ #
+```
